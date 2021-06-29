@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+  margin-top: 0;
+  font-family: 'Yellowtail', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/**********************CLASS STYLING*************************/
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #5F939A;
+  border: 10px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+/**********************ID STYLING*************************/
